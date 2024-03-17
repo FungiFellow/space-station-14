@@ -849,6 +849,9 @@
   id: Matchstick
 
 - type: Tag
+  id: Material
+
+- type: Tag
   id: Mayo
 
 - type: Tag
@@ -1201,6 +1204,9 @@
 
 - type: Tag
   id: Taser
+
+- type: Tag
+  id: Tile
 
 - type: Tag
   id: TimerBrigElectronics
