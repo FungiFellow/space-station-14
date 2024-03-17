@@ -5,8 +5,8 @@
   maxCount: 30
   itemSize: 5
 - type: Tag
-    tags:
-      - Tile
+  tags:
+  - Tile
 
 - type: stack
   id: FloorTileMetalDiamond
@@ -16,7 +16,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileWood
@@ -26,7 +26,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileWhite
@@ -36,7 +36,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileDark
@@ -56,7 +56,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileFreezer
@@ -66,8 +66,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-      
+  - Tile
+
 - type: stack
   id: FloorTileShowroom
   name: showroom tile
@@ -76,7 +76,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileGCircuit
@@ -86,7 +86,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
       
 - type: stack
   id: FloorTileGold
@@ -96,7 +96,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileReinforced
@@ -106,7 +106,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileMono
@@ -116,7 +116,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileBrassFilled
@@ -126,8 +126,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
- 
+  - Tile
+
 - type: stack
   id: FloorTileBrassReebe
   name: smooth brass plate
@@ -136,7 +136,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileLino
@@ -146,7 +146,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileHydro
@@ -156,7 +156,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileLime
@@ -166,7 +166,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileDirty
@@ -176,8 +176,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-  
+  - Tile
+
 - type: stack
   id: FloorTileStackShuttleWhite
   name: white shuttle tile
@@ -186,8 +186,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-      
+  - Tile
+
 - type: stack
   id: FloorTileStackShuttleBlue
   name: blue shuttle tile
@@ -196,8 +196,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-      
+  - Tile
+
 - type: stack
   id: FloorTileStackShuttleOrange
   name: orange shuttle tile
@@ -206,8 +206,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-      
+  - Tile
+
 - type: stack
   id: FloorTileStackShuttlePurple
   name: purple shuttle tile
@@ -216,7 +216,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileStackShuttleRed
@@ -226,7 +226,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileStackShuttleGrey
@@ -236,7 +236,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileStackShuttleBlack
@@ -246,7 +246,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileStackEighties
@@ -256,7 +256,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileStackArcadeBlue
@@ -266,7 +266,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileStackArcadeBlue2
@@ -276,7 +276,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileStackArcadeRed
@@ -286,7 +286,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorCarpetRed
@@ -296,7 +296,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorCarpetBlack
@@ -306,7 +306,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorCarpetBlue
@@ -316,7 +316,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorCarpetGreen
@@ -326,7 +326,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorCarpetOrange
@@ -336,7 +336,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorCarpetSkyBlue
@@ -346,7 +346,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorCarpetPurple
@@ -356,7 +356,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorCarpetPink
@@ -366,7 +366,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorCarpetCyan
@@ -376,7 +376,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorCarpetWhite
@@ -386,7 +386,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileStackCarpetClown
@@ -396,7 +396,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileStackCarpetOffice
@@ -406,7 +406,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileStackBoxing
@@ -416,8 +416,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-      
+  - Tile
+
 - type: stack
   id: FloorTileStackGym
   name: gym floor tile
@@ -426,7 +426,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileElevatorShaft
@@ -436,7 +436,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileRockVault
@@ -446,7 +446,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileBlue
@@ -456,7 +456,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileMining
@@ -466,8 +466,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-    
+  - Tile
+
 - type: stack
   id: FloorTileMiningDark
   name: dark mining floor tile
@@ -476,7 +476,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileMiningLight
@@ -486,7 +486,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileBar
@@ -496,8 +496,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-      
+  - Tile
+
 - type: stack
   id: FloorTileClown
   name: clown floor tile
@@ -506,7 +506,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileMime
@@ -516,7 +516,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileKitchen
@@ -526,7 +526,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileLaundry
@@ -536,7 +536,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileConcrete
@@ -546,7 +546,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileGrayConcrete
@@ -556,7 +556,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileOldConcrete
@@ -566,7 +566,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileSilver
@@ -576,7 +576,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileBCircuit
@@ -586,8 +586,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-    
+  - Tile
+
 - type: stack
   id: FloorTileGrass
   name: grass floor tile
@@ -596,8 +596,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-    
+  - Tile
+
 - type: stack
   id: FloorTileGrassJungle
   name: grass jungle floor tile
@@ -606,8 +606,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-    
+  - Tile
+
 - type: stack
   id: FloorTileSnow
   name: snow floor tile
@@ -616,7 +616,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileWoodPattern
@@ -626,7 +626,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileFlesh
@@ -636,7 +636,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileSteelMaint
@@ -646,8 +646,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-    
+  - Tile
+
 - type: stack
   id: FloorTileGratingMaint
   name: grating maint floor
@@ -656,8 +656,8 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
-    
+  - Tile
+
 - type: stack
   id: FloorTileWeb
   name: web tile
@@ -666,7 +666,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 # Faux science tiles
 - type: stack
@@ -677,7 +677,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileAstroIce
@@ -687,7 +687,7 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
 
 - type: stack
   id: FloorTileWoodLarge
@@ -697,4 +697,4 @@
   itemSize: 5
 - type: Tag
   tags:
-    - Tile
+  - Tile
