@@ -19,3 +19,28 @@
     whitelist:
       components:
       - MachinePart
+
+- type: entity
+  parent: BaseStorageItem
+  id: CAD
+  name: CAD
+  description: A Construction Assistance Device, convienient for use in construction.
+  components:
+  - type: Sprite
+    sprite: Objects/Specific/Research/rped.rsi
+    state: icon
+  - type: Item
+    sprite: Objects/Specific/Research/rped.rsi
+    size: Normal
+  - type: Storage
+    grid:
+    - 0,0,15,5
+  - type: Dumpable
+    quickInsert: true
+    areaInsert: true
+    whitelist:
+      tags:
+        - Material
+        - Tile
+      components:
+      - MachinePart
