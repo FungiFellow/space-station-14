@@ -7,7 +7,7 @@
   itemSize: 1
 - type: Tag
   tags:
-    - Material
+  - Material
 
 - type: stack
   id: WoodPlank
@@ -18,7 +18,7 @@
   itemSize: 1
 - type: Tag
   tags:
-    - Material
+  - Material
 
 - type: stack
   id: Cardboard
@@ -29,7 +29,7 @@
   itemSize: 1
 - type: Tag
   tags:
-    - Material
+  - Material
     
 - type: stack
   id: Cloth
@@ -40,7 +40,7 @@
   itemSize: 1
 - type: Tag
   tags:
-    - Material
+  - Material
     
 - type: stack
   id: Durathread
@@ -51,7 +51,7 @@
   itemSize: 1
 - type: Tag
   tags:
-    - Material
+  - Material
 
 - type: stack
   id: Diamond
@@ -62,7 +62,7 @@
   itemSize: 2
 - type: Tag
   tags:
-    - Material
+  - Material
     
 - type: stack
   id: Cotton
@@ -73,7 +73,7 @@
   itemSize: 1
 - type: Tag
   tags:
-    - Material
+  - Material
     
 - type: stack
   id: Bananium
@@ -84,7 +84,7 @@
   itemSize: 2
 - type: Tag
   tags:
-    - Material
+  - Material
     
 - type: stack
   id: MeatSheets
@@ -95,7 +95,7 @@
   itemSize: 1
 - type: Tag
   tags:
-    - Material
+  - Material
 
 - type: stack
   id: WebSilk
@@ -106,7 +106,7 @@
   itemSize: 1
 - type: Tag
   tags:
-    - Material
+  - Material
 
 - type: stack
   id: Bones
@@ -117,7 +117,7 @@
   itemSize: 1
 - type: Tag
   tags:
-    - Material
+  - Material
 
 - type: stack
   id: Gunpowder
@@ -128,4 +128,4 @@
   itemSize: 1
 - type: Tag
   tags:
-    - Material
+  - Material
