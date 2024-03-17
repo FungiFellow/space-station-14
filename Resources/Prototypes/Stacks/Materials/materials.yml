@@ -29,7 +29,7 @@
   itemSize: 1
 - type: Tag
   tags:
-    - Material
+   - Material
     
 - type: stack
   id: Cloth
