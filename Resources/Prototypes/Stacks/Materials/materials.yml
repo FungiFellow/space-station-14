@@ -5,9 +5,9 @@
   spawn: MaterialBiomass1
   maxCount: 100
   itemSize: 1
-  - type: Tag
-    tags:
-      - Material
+- type: Tag
+  tags:
+    - Material
 
 - type: stack
   id: WoodPlank
@@ -16,9 +16,9 @@
   spawn: MaterialWoodPlank1
   maxCount: 30
   itemSize: 1
-  - type: Tag
-    tags:
-      - Material
+- type: Tag
+  tags:
+    - Material
 
 - type: stack
   id: Cardboard
@@ -27,10 +27,10 @@
   spawn: MaterialCardboard1
   maxCount: 30
   itemSize: 1
-  - type: Tag
-    tags:
-      - Material
-
+- type: Tag
+  tags:
+    - Material
+    
 - type: stack
   id: Cloth
   name: cloth
@@ -38,10 +38,10 @@
   spawn: MaterialCloth1
   maxCount: 30
   itemSize: 1
-  - type: Tag
-    tags:
-      - Material
-
+- type: Tag
+  tags:
+    - Material
+    
 - type: stack
   id: Durathread
   name: durathread
@@ -49,9 +49,9 @@
   spawn: MaterialDurathread1
   maxCount: 30
   itemSize: 1
-  - type: Tag
-    tags:
-      - Material
+- type: Tag
+  tags:
+    - Material
 
 - type: stack
   id: Diamond
@@ -60,10 +60,10 @@
   spawn: MaterialDiamond1
   maxCount: 30
   itemSize: 2
-  - type: Tag
-    tags:
-      - Material
-
+- type: Tag
+  tags:
+    - Material
+    
 - type: stack
   id: Cotton
   name: cotton
@@ -71,10 +71,10 @@
   spawn: MaterialCotton1
   maxCount: 30
   itemSize: 1
-  - type: Tag
-    tags:
-      - Material
-
+- type: Tag
+  tags:
+    - Material
+    
 - type: stack
   id: Bananium
   name: bananium
@@ -82,10 +82,10 @@
   spawn: MaterialBananium1
   maxCount: 10
   itemSize: 2
-  - type: Tag
-    tags:
-      - Material
-
+- type: Tag
+  tags:
+    - Material
+    
 - type: stack
   id: MeatSheets
   name: meat sheet
@@ -93,9 +93,9 @@
   spawn: MaterialSheetMeat1
   maxCount: 30
   itemSize: 1
-  - type: Tag
-    tags:
-      - Material
+- type: Tag
+  tags:
+    - Material
 
 - type: stack
   id: WebSilk
@@ -104,9 +104,9 @@
   spawn: MaterialWebSilk1
   maxCount: 50
   itemSize: 1
-  - type: Tag
-    tags:
-      - Material
+- type: Tag
+  tags:
+    - Material
 
 - type: stack
   id: Bones
@@ -115,9 +115,9 @@
   spawn: MaterialBones1
   maxCount: 30
   itemSize: 1
-  - type: Tag
-    tags:
-      - Material
+- type: Tag
+  tags:
+    - Material
 
 - type: stack
   id: Gunpowder
@@ -126,6 +126,6 @@
   spawn: MaterialGunpowder
   maxCount: 60
   itemSize: 1
-  - type: Tag
-    tags:
-      - Material
+- type: Tag
+  tags:
+    - Material
