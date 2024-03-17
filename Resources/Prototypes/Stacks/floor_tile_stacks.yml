@@ -5,8 +5,8 @@
   maxCount: 30
   itemSize: 5
 - type: Tag
-  tags:
-    - Tile
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileMetalDiamond
@@ -177,7 +177,7 @@
 - type: Tag
   tags:
     - Tile
-
+  
 - type: stack
   id: FloorTileStackShuttleWhite
   name: white shuttle tile
