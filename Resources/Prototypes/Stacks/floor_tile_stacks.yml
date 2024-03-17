@@ -4,6 +4,9 @@
   spawn: FloorTileItemSteel
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileMetalDiamond
@@ -11,6 +14,9 @@
   spawn: FloorTileItemMetalDiamond
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileWood
@@ -18,6 +24,9 @@
   spawn: FloorTileItemWood
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileWhite
@@ -25,6 +34,9 @@
   spawn: FloorTileItemWhite
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileDark
@@ -32,6 +44,9 @@
   spawn: FloorTileItemDark
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileTechmaint
@@ -39,6 +54,9 @@
   spawn: FloorTileItemTechmaint
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileFreezer
@@ -46,6 +64,9 @@
   spawn: FloorTileItemFreezer
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileShowroom
@@ -53,6 +74,9 @@
   spawn: FloorTileItemShowroom
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileGCircuit
@@ -60,6 +84,9 @@
   spawn: FloorTileItemGCircuit
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileGold
@@ -67,6 +94,9 @@
   spawn: FloorTileItemGold
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileReinforced
@@ -74,6 +104,9 @@
   spawn: FloorTileItemReinforced
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileMono
@@ -81,6 +114,9 @@
   spawn: FloorTileItemMono
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileBrassFilled
@@ -88,6 +124,9 @@
   spawn: FloorTileItemBrassFilled
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
   
 - type: stack
   id: FloorTileBrassReebe
@@ -95,6 +134,9 @@
   spawn: FloorTileItemBrassReebe
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileLino
@@ -102,6 +144,9 @@
   spawn: FloorTileItemLino
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileHydro
@@ -109,6 +154,9 @@
   spawn: FloorTileItemHydro
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileLime
@@ -116,6 +164,9 @@
   spawn: FloorTileItemLime
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileDirty
@@ -123,6 +174,9 @@
   spawn: FloorTileItemDirty
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackShuttleWhite
@@ -130,6 +184,9 @@
   spawn: FloorTileItemShuttleWhite
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackShuttleBlue
@@ -137,6 +194,9 @@
   spawn: FloorTileItemShuttleBlue
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackShuttleOrange
@@ -144,6 +204,9 @@
   spawn: FloorTileItemShuttleOrange
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackShuttlePurple
@@ -151,6 +214,9 @@
   spawn: FloorTileItemShuttlePurple
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackShuttleRed
@@ -158,6 +224,9 @@
   spawn: FloorTileItemShuttleRed
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackShuttleGrey
@@ -165,6 +234,9 @@
   spawn: FloorTileItemShuttleGrey
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackShuttleBlack
@@ -172,6 +244,9 @@
   spawn: FloorTileItemShuttleBlack
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackEighties
@@ -179,6 +254,9 @@
   spawn: FloorTileItemEighties
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackArcadeBlue
@@ -186,6 +264,9 @@
   spawn: FloorTileItemArcadeBlue
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackArcadeBlue2
@@ -193,6 +274,9 @@
   spawn: FloorTileItemArcadeBlue2
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackArcadeRed
@@ -200,6 +284,9 @@
   spawn: FloorTileItemArcadeRed
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorCarpetRed
@@ -207,6 +294,9 @@
   spawn: FloorCarpetItemRed
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorCarpetBlack
@@ -214,6 +304,9 @@
   spawn: FloorCarpetItemBlack
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorCarpetBlue
@@ -221,6 +314,9 @@
   spawn: FloorCarpetItemBlue
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorCarpetGreen
@@ -228,6 +324,9 @@
   spawn: FloorCarpetItemGreen
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorCarpetOrange
@@ -235,6 +334,9 @@
   spawn: FloorCarpetItemOrange
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorCarpetSkyBlue
@@ -242,6 +344,9 @@
   spawn: FloorCarpetItemSkyBlue
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorCarpetPurple
@@ -249,6 +354,9 @@
   spawn: FloorCarpetItemPurple
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorCarpetPink
@@ -256,6 +364,9 @@
   spawn: FloorCarpetItemPink
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorCarpetCyan
@@ -263,6 +374,9 @@
   spawn: FloorCarpetItemCyan
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorCarpetWhite
@@ -270,6 +384,9 @@
   spawn: FloorCarpetItemWhite
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackCarpetClown
@@ -277,6 +394,9 @@
   spawn: FloorTileItemCarpetClown
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackCarpetOffice
@@ -284,6 +404,9 @@
   spawn: FloorTileItemCarpetOffice
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackBoxing
@@ -291,6 +414,9 @@
   spawn: FloorTileItemBoxing
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileStackGym
@@ -298,6 +424,9 @@
   spawn: FloorTileItemGym
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileElevatorShaft
@@ -305,6 +434,9 @@
   spawn: FloorTileItemElevatorShaft
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileRockVault
@@ -312,6 +444,9 @@
   spawn: FloorTileItemRockVault
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileBlue
@@ -319,6 +454,9 @@
   spawn: FloorTileItemBlue
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileMining
@@ -326,6 +464,9 @@
   spawn: FloorTileItemMining
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileMiningDark
@@ -333,6 +474,9 @@
   spawn: FloorTileItemMiningDark
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileMiningLight
@@ -340,6 +484,9 @@
   spawn: FloorTileItemMiningLight
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileBar
@@ -347,13 +494,19 @@
   spawn: FloorTileItemBar
   maxCount: 30
   itemSize: 5
-
+  - type: Tag
+    tags:
+      - Tile
+      
 - type: stack
   id: FloorTileClown
   name: clown floor tile
   spawn: FloorTileItemClown
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileMime
@@ -361,6 +514,9 @@
   spawn: FloorTileItemMime
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileKitchen
@@ -368,6 +524,9 @@
   spawn: FloorTileItemKitchen
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileLaundry
@@ -375,6 +534,9 @@
   spawn: FloorTileItemLaundry
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileConcrete
@@ -382,6 +544,9 @@
   spawn: FloorTileItemGrayConcrete
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileGrayConcrete
@@ -389,6 +554,9 @@
   spawn: FloorTileItemLaundry
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileOldConcrete
@@ -396,6 +564,9 @@
   spawn: FloorTileItemOldConcrete
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileSilver
@@ -403,6 +574,9 @@
   spawn: FloorTileItemSilver
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileBCircuit
@@ -410,6 +584,9 @@
   spawn: FloorTileItemBCircuit
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileGrass
@@ -417,6 +594,9 @@
   spawn: FloorTileItemGrass
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileGrassJungle
@@ -424,6 +604,9 @@
   spawn: FloorTileItemGrassJungle
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileSnow
@@ -431,6 +614,9 @@
   spawn: FloorTileItemSnow
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileWoodPattern
@@ -438,6 +624,9 @@
   spawn: FloorTileItemWoodPattern
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileFlesh
@@ -445,6 +634,9 @@
   spawn: FloorTileItemFlesh
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileSteelMaint
@@ -452,6 +644,9 @@
   spawn: FloorTileItemSteelMaint
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileGratingMaint
@@ -459,6 +654,9 @@
   spawn: FloorTileItemGratingMaint
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileWeb
@@ -466,6 +664,9 @@
   spawn: FloorTileItemWeb
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 # Faux science tiles
 - type: stack
@@ -474,6 +675,9 @@
   spawn: FloorTileItemAstroGrass
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileAstroIce
@@ -481,9 +685,16 @@
   spawn: FloorTileItemAstroIce
   maxCount: 30
   itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
 
 - type: stack
   id: FloorTileWoodLarge
   name: large wood floor
   spawn: FloorTileItemWoodLarge
   maxCount: 30
+  itemSize: 5
+  - type: Tag
+    tags:
+      - Tile
