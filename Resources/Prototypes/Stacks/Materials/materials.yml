@@ -5,8 +5,7 @@
   spawn: MaterialBiomass1
   maxCount: 100
   itemSize: 1
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
 
@@ -17,8 +16,7 @@
   spawn: MaterialWoodPlank1
   maxCount: 30
   itemSize: 1
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
 
@@ -29,8 +27,7 @@
   spawn: MaterialCardboard1
   maxCount: 30
   itemSize: 1
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
 
@@ -42,8 +39,7 @@
   spawn: MaterialCloth1
   maxCount: 30
   itemSize: 1
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
 
@@ -54,8 +50,7 @@
   spawn: MaterialDurathread1
   maxCount: 30
   itemSize: 1
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
 
@@ -66,8 +61,7 @@
   spawn: MaterialDiamond1
   maxCount: 30
   itemSize: 2
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
 
@@ -78,8 +72,7 @@
   spawn: MaterialCotton1
   maxCount: 30
   itemSize: 1
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
 
@@ -90,8 +83,7 @@
   spawn: MaterialBananium1
   maxCount: 10
   itemSize: 2
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
 
@@ -102,8 +94,7 @@
   spawn: MaterialSheetMeat1
   maxCount: 30
   itemSize: 1
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
 
@@ -114,8 +105,7 @@
   spawn: MaterialWebSilk1
   maxCount: 50
   itemSize: 1
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
 
@@ -126,8 +116,7 @@
   spawn: MaterialBones1
   maxCount: 30
   itemSize: 1
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
 
@@ -138,7 +127,6 @@
   spawn: MaterialGunpowder
   maxCount: 60
   itemSize: 1
-  components:
-  - type: Tag
+   - type: Tag
     tags:
     - Material
