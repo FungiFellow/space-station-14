@@ -5,8 +5,9 @@
   spawn: IngotGold1
   maxCount: 30
   itemSize: 1
-- type: Tag
-  tags:
+  components:
+  - type: Tag
+    tags:
     - Material
 
 - type: stack
@@ -16,6 +17,7 @@
   spawn: IngotSilver1
   maxCount: 30
   itemSize: 1
-- type: Tag
-  tags:
+  components:
+  - type: Tag
+    tags:
     - Material
