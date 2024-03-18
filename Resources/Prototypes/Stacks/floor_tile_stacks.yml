@@ -3,7 +3,9 @@
   name: steel tile
   spawn: FloorTileItemSteel
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+
+  components:
   - type: Tag
     tags:
     - Tile
@@ -13,7 +15,8 @@
   name: steel tile
   spawn: FloorTileItemMetalDiamond
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:   
   - type: Tag
     tags:
     - Tile
@@ -24,7 +27,8 @@
   name: wood floor
   spawn: FloorTileItemWood
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -34,7 +38,8 @@
   name: white tile
   spawn: FloorTileItemWhite
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -44,7 +49,8 @@
   name: dark tile
   spawn: FloorTileItemDark
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -54,7 +60,8 @@
   name: techmaint floor
   spawn: FloorTileItemTechmaint
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -64,7 +71,8 @@
   name: freezer tile
   spawn: FloorTileItemFreezer
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -74,7 +82,8 @@
   name: showroom tile
   spawn: FloorTileItemShowroom
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -84,7 +93,8 @@
   name: green-circuit floor
   spawn: FloorTileItemGCircuit
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -94,7 +104,8 @@
   name: gold floor
   spawn: FloorTileItemGold
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -104,7 +115,8 @@
   name: reinforced tile
   spawn: FloorTileItemReinforced
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -114,7 +126,8 @@
   name: mono tile
   spawn: FloorTileItemMono
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -124,7 +137,8 @@
   name: filled brass plate
   spawn: FloorTileItemBrassFilled
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -134,7 +148,8 @@
   name: smooth brass plate
   spawn: FloorTileItemBrassReebe
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -144,7 +159,8 @@
   name: linoleum floor
   spawn: FloorTileItemLino
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -154,7 +170,8 @@
   name: hydro tile
   spawn: FloorTileItemHydro
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -164,7 +181,8 @@
   name: lime tile
   spawn: FloorTileItemLime
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -174,7 +192,8 @@
   name: dirty tile
   spawn: FloorTileItemDirty
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -184,7 +203,8 @@
   name: white shuttle tile
   spawn: FloorTileItemShuttleWhite
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -194,7 +214,8 @@
   name: blue shuttle tile
   spawn: FloorTileItemShuttleBlue
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -204,15 +225,19 @@
   name: orange shuttle tile
   spawn: FloorTileItemShuttleOrange
   maxCount: 30
-  itemSize: 5
-   
+  itemSize: 5   
+  components:
+  - type: Tag
+    tags:
+    - Tile
     
 - type: stack
   id: FloorTileStackShuttlePurple
   name: purple shuttle tile
   spawn: FloorTileItemShuttlePurple
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -222,7 +247,8 @@
   name: red shuttle tile
   spawn: FloorTileItemShuttleRed
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -232,7 +258,8 @@
   name: grey shuttle tile
   spawn: FloorTileItemShuttleGrey
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -242,7 +269,8 @@
   name: black shuttle tile
   spawn: FloorTileItemShuttleBlack
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -252,7 +280,8 @@
   name: eighties floor tile
   spawn: FloorTileItemEighties
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -262,7 +291,8 @@
   name: blue arcade tile
   spawn: FloorTileItemArcadeBlue
   maxCount: 30
-  itemSize: 5
+  itemSize: 5 
+  components:
   - type: Tag
     tags:
     - Tile
@@ -272,7 +302,8 @@
   name: blue arcade tile
   spawn: FloorTileItemArcadeBlue2
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -282,7 +313,8 @@
   name: red arcade tile
   spawn: FloorTileItemArcadeRed
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -292,7 +324,8 @@
   name: red carpet tile
   spawn: FloorCarpetItemRed
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -302,7 +335,8 @@
   name: block carpet tile
   spawn: FloorCarpetItemBlack
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -312,7 +346,8 @@
   name: blue carpet tile
   spawn: FloorCarpetItemBlue
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -322,7 +357,8 @@
   name: green carpet tile
   spawn: FloorCarpetItemGreen
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -332,7 +368,8 @@
   name: orange carpet tile
   spawn: FloorCarpetItemOrange
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -342,7 +379,8 @@
   name: skyblue carpet tile
   spawn: FloorCarpetItemSkyBlue
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -352,7 +390,8 @@
   name: purple carpet tile
   spawn: FloorCarpetItemPurple
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -362,7 +401,8 @@
   name: pink carpet tile
   spawn: FloorCarpetItemPink
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -372,7 +412,8 @@
   name: cyan carpet tile
   spawn: FloorCarpetItemCyan
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -382,7 +423,8 @@
   name: white carpet tile
   spawn: FloorCarpetItemWhite
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -392,7 +434,8 @@
   name: clown carpet tile
   spawn: FloorTileItemCarpetClown
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -402,7 +445,8 @@
   name: office carpet tile
   spawn: FloorTileItemCarpetOffice
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -412,7 +456,8 @@
   name: boxing ring tile
   spawn: FloorTileItemBoxing
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -422,7 +467,8 @@
   name: gym floor tile
   spawn: FloorTileItemGym
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -432,7 +478,8 @@
   name: elevator shaft tile
   spawn: FloorTileItemElevatorShaft
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -442,7 +489,8 @@
   name: rock vault tile
   spawn: FloorTileItemRockVault
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -452,7 +500,8 @@
   name: blue floor tile
   spawn: FloorTileItemBlue
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -462,7 +511,8 @@
   name: mining floor tile
   spawn: FloorTileItemMining
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -472,7 +522,8 @@
   name: dark mining floor tile
   spawn: FloorTileItemMiningDark
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -482,7 +533,8 @@
   name: light mining floor tile
   spawn: FloorTileItemMiningLight
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -492,7 +544,8 @@
   name: item bar floor tile
   spawn: FloorTileItemBar
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -502,7 +555,8 @@
   name: clown floor tile
   spawn: FloorTileItemClown
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -512,7 +566,8 @@
   name: mime floor tile
   spawn: FloorTileItemMime
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -522,7 +577,8 @@
   name: kitchen floor tile
   spawn: FloorTileItemKitchen
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -532,7 +588,8 @@
   name: laundry floor tile
   spawn: FloorTileItemLaundry
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -542,7 +599,8 @@
   name: concrete tile
   spawn: FloorTileItemGrayConcrete
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -552,7 +610,8 @@
   name: gray concrete tile
   spawn: FloorTileItemLaundry
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -562,7 +621,8 @@
   name: old concrete tile
   spawn: FloorTileItemOldConcrete
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -572,7 +632,8 @@
   name: silver floor tile
   spawn: FloorTileItemSilver
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -582,7 +643,8 @@
   name: bcircuit floor tile
   spawn: FloorTileItemBCircuit
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -592,7 +654,8 @@
   name: grass floor tile
   spawn: FloorTileItemGrass
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -602,7 +665,8 @@
   name: grass jungle floor tile
   spawn: FloorTileItemGrassJungle
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -612,7 +676,8 @@
   name: snow floor tile
   spawn: FloorTileItemSnow
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -622,7 +687,8 @@
   name: wood pattern floor
   spawn: FloorTileItemWoodPattern
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -632,7 +698,8 @@
   name: flesh floor
   spawn: FloorTileItemFlesh
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -642,7 +709,8 @@
   name: steel maint floor
   spawn: FloorTileItemSteelMaint
   maxCount: 30
-  itemSize: 5
+  itemSize: 5  
+  components:
   - type: Tag
     tags:
     - Tile
@@ -652,7 +720,8 @@
   name: grating maint floor
   spawn: FloorTileItemGratingMaint
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -662,7 +731,8 @@
   name: web tile
   spawn: FloorTileItemWeb
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -673,7 +743,8 @@
   name: astro-grass floor
   spawn: FloorTileItemAstroGrass
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -683,7 +754,8 @@
   name: astro-ice floor
   spawn: FloorTileItemAstroIce
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
@@ -693,7 +765,8 @@
   name: large wood floor
   spawn: FloorTileItemWoodLarge
   maxCount: 30
-  itemSize: 5
+  itemSize: 5   
+  components:
   - type: Tag
     tags:
     - Tile
