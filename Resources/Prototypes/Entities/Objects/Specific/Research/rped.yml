@@ -35,7 +35,6 @@
   - type: Storage
     grid:
     - 0,0,15,5
-  - type: Dumpable
     quickInsert: true
     areaInsert: true
     whitelist:
@@ -44,3 +43,4 @@
         - Tile
       components:
       - MachinePart
+   - type: Dumpable
