@@ -43,4 +43,4 @@
         - Tile
       components:
       - MachinePart
-   - type: Dumpable
+ - type: Dumpable
