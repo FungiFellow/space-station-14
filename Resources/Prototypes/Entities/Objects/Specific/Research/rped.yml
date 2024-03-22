@@ -24,7 +24,7 @@
   parent: BaseStorageItem
   id: CAD
   name: CAD
-  description: A Construction Assistance Device, convienient for use in construction.
+  description: A Construction Assistance Device, convienient for building.
   components:
   - type: Sprite
     sprite: Objects/Specific/Research/rped.rsi
