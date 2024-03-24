@@ -22,3 +22,5 @@
         - Ingot
       components:
       - MachinePart
+      - MachineBoard
+      - ComputerBoard
