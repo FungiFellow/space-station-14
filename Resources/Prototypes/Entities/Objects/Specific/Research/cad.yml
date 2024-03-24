@@ -16,11 +16,10 @@
     quickInsert: true
     areaInsert: true
     whitelist:
-      tags:
-        - Sheet
-        - RawMaterial
-        - Ingot
       components:
       - MachinePart
       - MachineBoard
       - ComputerBoard
+      - Sheet
+      - RawMaterial
+      - Ingot
