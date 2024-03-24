@@ -1,0 +1,26 @@
+- type: entity
+  parent: BaseStorageItem
+  id: CAD
+  name: CAD
+  description: A Construction Assistance Device, convienient for building.
+  components:
+  - type: Sprite
+    sprite: Objects/Specific/Research/rped.rsi
+    state: icon
+  - type: Item
+    sprite: Objects/Specific/Research/rped.rsi
+    size: Normal
+  - type: Storage
+    grid:
+    - 0,0,15,5
+    quickInsert: true
+    areaInsert: true
+    whitelist:
+      tags:
+        - Sheet
+        - RawMaterial
+        - Ingot
+      components:
+      - MachinePart
+      - MachineBoard
+      - ComputerBoard
