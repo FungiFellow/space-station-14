@@ -2,7 +2,7 @@
 
 - type: entity
   id: BorgLens
-  description: A specialized lens for Borgs.
+  description: A specialized lens featuring an inbuilt light for Borg use.
   components:
   - type: Sprite
     state: borg_lens
