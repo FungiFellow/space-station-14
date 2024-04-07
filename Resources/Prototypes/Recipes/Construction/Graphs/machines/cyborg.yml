@@ -30,14 +30,14 @@
       - component: BorgLens
         name: borg lens
         store: part-container
-        icon:
-          sprite: Objects/Specific/Robotics/cyborg_parts.rsi/borg_lens.png
+        - type: Icon
+          state: borg_lens
 
       - component: BorgLens
         name: second borg lens
         store: part-container
-        icon:
-          sprite: Objects/Specific/Robotics/cyborg_parts.rsi/borg_lens.png
+        - type: Icon
+          state: borg_lens
           
       - tool: Screwing
         doAfter: 0.5
