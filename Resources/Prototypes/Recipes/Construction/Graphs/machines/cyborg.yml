@@ -27,20 +27,18 @@
         doAfter: 1
         store: part-container
 
-      - component: Flash
-        name: flash
+      - component: BorgLens
+        name: borg lens
         store: part-container
         icon:
-          sprite: Objects/Weapons/Melee/flash.rsi
-          state: flash
+          sprite: Objects/Specific/Robotics/cyborg_parts.rsi/borg_lens.png
 
-      - component: Flash
-        name: second flash
+      - component: BorgLens
+        name: second borg lens
         store: part-container
         icon:
-          sprite: Objects/Weapons/Melee/flash.rsi
-          state: flash
-
+          sprite: Objects/Specific/Robotics/cyborg_parts.rsi/borg_lens.png
+          
       - tool: Screwing
         doAfter: 0.5
     
