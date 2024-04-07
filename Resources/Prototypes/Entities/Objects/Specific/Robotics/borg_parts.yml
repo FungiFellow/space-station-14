@@ -1,4 +1,18 @@
 ﻿# generic parts
+
+- type: entity
+  id: BorgLens
+  description: A specialized lens for Borgs.
+  components:
+  - type: Sprite
+    state: borg_lens
+  - type: Icon
+    state: borg_lens
+  - type: Tag
+    tags:
+    - Trash
+    - BorgLens
+  
 - type: entity
   id: LeftArmBorg
   parent: BaseBorgArmLeft
