@@ -18,6 +18,7 @@
     whitelist:
       tags:
       - Arrow
+      - Plunger
   - type: Appearance
   - type: StorageContainerVisuals
     maxFillLevels: 3
