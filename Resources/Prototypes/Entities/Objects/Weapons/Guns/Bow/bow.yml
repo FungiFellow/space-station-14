@@ -130,6 +130,7 @@
           tags:
           - Arrow
           - Plunger
+          - Dart
   - type: ContainerContainer
     containers:
       projectiles: !type:ContainerSlot
