@@ -112,7 +112,7 @@
     delay: 1
   - type: Gun
     minAngle: 0
-    maxAngle: 1
+    maxAngle: 3
     fireRate: 1
     selectedMode: SemiAuto
     availableModes:
