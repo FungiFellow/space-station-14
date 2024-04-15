@@ -108,7 +108,7 @@
     graph: ImprovisedArrow
     node: ImprovisedArrow
 
-﻿- type: entity
+- type: entity
   parent: BaseItem
   id: BoxingArrow
   name: boxing glove arrow
