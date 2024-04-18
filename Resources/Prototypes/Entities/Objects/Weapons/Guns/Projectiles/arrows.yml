@@ -154,7 +154,7 @@
   - type: StaminaDamageOnCollide
     damage: 50
 
-﻿- type: entity
+- type: entity
   parent: BaseItem
   id: BolaArrow
   name: bola arrow
