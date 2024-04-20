@@ -143,7 +143,6 @@
   - type: Tag
     tags:
     - Arrow
-    - CannonRestrict
   - type: Projectile
     deleteOnCollide: false
     onlyCollideWhenShot: true
@@ -192,7 +191,6 @@
   - type: Tag
     tags:
     - Arrow
-    - CannonRestrict
   - type: Projectile
     deleteOnCollide: false
     onlyCollideWhenShot: true
