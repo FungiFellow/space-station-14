@@ -119,7 +119,6 @@
         - RemoteSignallerAdvanced
         - LightReplacer
         - HandHeldMassScanner
-        - HandLabeler
       components:
         - SprayPainter
         - NetworkConfigurator
@@ -133,6 +132,7 @@
         - TrayScanner
         - GasAnalyzer
         - EyeProtection
+        - HandLabeler
   - type: ItemMapper
     mapLayers:
       drill:
