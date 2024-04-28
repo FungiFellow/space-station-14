@@ -31,6 +31,10 @@
         - AppraisalTool
         - JawsOfLife
         - GPS
+        - RemoteSignaller
+        - RemoteSignallerAdvanced
+        - LightReplacer
+        - HandHeldMassScanner
       components:
         - SprayPainter
         - NetworkConfigurator
@@ -42,6 +46,7 @@
         - TrayScanner
         - GasAnalyzer
         - HandLabeler
+        - EyeProtection
   - type: ItemMapper
     mapLayers:
       drill:
@@ -110,6 +115,11 @@
         - HolofanProjector
         - Multitool
         - AppraisalTool
+        - RemoteSignaller
+        - RemoteSignallerAdvanced
+        - LightReplacer
+        - HandHeldMassScanner
+        - HandLabeler
       components:
         - SprayPainter
         - NetworkConfigurator
@@ -122,6 +132,7 @@
         - Geiger
         - TrayScanner
         - GasAnalyzer
+        - EyeProtection
   - type: ItemMapper
     mapLayers:
       drill:
@@ -225,6 +236,7 @@
       components:
         - LightReplacer
         - SmokeOnTrigger
+        - Mousetrap
     maxItemSize: Large
   - type: ItemMapper
     mapLayers:
@@ -268,6 +280,7 @@
         - Radio
         - DiscreteHealthAnalyzer
         - SurgeryTool
+        - HandLabeler
       components:
         - Hypospray
         - Injector
@@ -340,12 +353,12 @@
         - PlantSampleTaker
         - PlantBGone
         - Bottle
-        - Syringe
+        - Dropper
         - CigPack
+        - HandLabeler
       components:
         - Seed
         - Smokable
-        - HandLabeler
   - type: ItemMapper
     mapLayers:
       hatchet:
@@ -403,6 +416,7 @@
         - Skewer
         - MonkeyCube
         - Mayo
+        - Bottle
       components:
         - Mousetrap
         - Smokable
@@ -474,6 +488,8 @@
         - MagazineMagnum
         - CombatKnife
         - Truncheon
+        - Tourniquet
+        - TelescopicShield
       components:
         - Stunbaton
         - FlashOnTrigger
@@ -482,6 +498,7 @@
         - Handcuff
         - BallisticAmmoProvider
         - CartridgeAmmo
+        - ClusterGrenade
   - type: ItemMapper
     mapLayers:
       flashbang:
