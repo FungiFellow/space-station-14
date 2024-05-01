@@ -29,4 +29,7 @@
         - PillCanister
         - Bottle
         - Syringe
+        - Jug
+        - Dropper
+        - HandLabeler
   - type: Dumpable
