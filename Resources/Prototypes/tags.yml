@@ -127,6 +127,9 @@
   id: BorgLeg
 
 - type: Tag
+  id: BorgLens
+
+- type: Tag
   id: BorgMedicalHead
 
 - type: Tag
